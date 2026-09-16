@@ -1,0 +1,11 @@
+Ubuntu was installed and configured using Oracle VirtualBox.
+
+Commands/steps used:
+1. Opened Oracle VirtualBox.
+2. Created a new virtual machine for Ubuntu.
+3. Selected the Ubuntu ISO file.
+4. Configured the virtual machine settings.
+5. Started the virtual machine.
+6. Followed the Ubuntu installation process.
+7. Completed the installation and launched Ubuntu.
+8. Verified that Ubuntu was running successfully.
